@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.fondo{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAd81RE5sV_m-A3lTS1v8OUoyHWK3yGIUWmA&usqp=CAU");
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    margin: 0;
+    text-align: center;
+
+}
